@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_user_button"
+        android:title="Добавить пользователя"
+        android:icon="@drawable/ic_add_black_24dp" />
+    <item
+        android:id="@+id/enter_key_button"
+        android:title="Ввести код"
+        android:icon="@drawable/ic_create_black_24dp"/>
+    <item
+        android:id="@+id/sink_button"
+        android:title="Синхронизация"
+        android:icon="@drawable/ic_autorenew_black_24dp"/>
+    <item
+        android:id="@+id/exit_to_app_button"
+        android:title="Сменить аккаунт"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+</menu>
